@@ -1,0 +1,41 @@
+*{
+
+}
+a{
+	text-decoration: none;
+}
+.contain{
+	width: 100%;
+	padding-bottom: 100%;
+}
+.box{
+	width: 27%;
+	padding-bottom: 28%;
+	float: left;
+	background: orange;
+	margin: 3%;
+	border-radius: 3%;
+}/* 6*x+3*y=100
+	3 27 */
+.starta{
+	width: 70%;
+	padding: 3%;
+	text-align: center;
+	margin: 4% auto;
+	display: block;
+	background: orange;
+	color: white;
+	border: orange 2px solid;
+	border-radius: 10px;
+	}
+.enda{
+	width: 70%;
+	padding: 3%;
+	text-align: center;
+	margin: 4% auto;
+	display: block;
+	background:white;
+	color: orange;
+	border: orange 2px solid;
+	border-radius: 10px;
+}
